@@ -69,6 +69,11 @@ Git, CVS, SVN, Crystal Reports 8.5, RealVNC, Teamviewer
 
 ## Occupation
 
+`May 2016 - Now`
+- __Company:__ ​Corporate Fusion Inc.
+- __Address:__ Filmore St. Brgy Palanan, Makati City
+- __Position:​__ Research and Development Team Manager, 
+
 `Apr 2014 - Mar 2016`
 - __Company​:__ Pacific Mez Web Marketing Corporation 
 - __Address:__ ​Lepanto Bldg. Paseo De Roxas, Makati City 
@@ -79,8 +84,8 @@ Git, CVS, SVN, Crystal Reports 8.5, RealVNC, Teamviewer
 - __Address:__ ​Northgate Cyberpark Alabang Muntinlupa, Philippines ­/ Jumeira Lake Towers, Dubai, UAE 
 - __Position​:__ Systems Programmer/Web Developer 
 
-`Dec 2011 - Feb 2014`
-- __Company:__ ​Corporate Fusion Incorporated Company 
+`Nov 2005 - June 2011`
+- __Company:__ ​Corporate Fusion Inc.
 - __Address:__ ​Ususan, Taguig City 
 - __Position:​__ Senior Programmer/QA/Support 
 
