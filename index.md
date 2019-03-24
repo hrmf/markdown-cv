@@ -1,88 +1,84 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adrian Morada's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Adrian Juson Morada
+.Net Software Developer, Front-end Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:adrianmorada@gmail.com">adrianmorada@gmail.com</a>
+<a href="tel:+639063596863">+639063596863</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Manager, Research and Development Team at Corporate Fusion Inc.
 
-### Specialized in
+### Roles and Function
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+* Assign Tasks to R&D Team 
+* Mentor R&D Team
+* Development/Maintenance of new features for company flagship product
+* Maintainance of company websites
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2002-2004`
+__AMA CLC of Meycauayan__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- College (Vocational) 
 
-- Sizar
+`1998-2002`
+__St. Mary's College of Meycauayan__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- High-school
 
 
+## Skills
 
-## Awards
+### Programming Languages
 
-`2012`
-President, *Royal Society*, London, UK
+C#, VB6, PHP
 
-Associate, *French Academy of Science*, Paris, France
+### Database
+
+MySQL, SQL Server, MS Access, SQLite, SQL Server
+
+### Web
+
+JS, jQuery, CSS, LESS, ASP.NET MVC
+
+### Software Development Methodologies
+
+TDD, Scrum
+
+### Other Software
+
+Git, CVS, SVN, Crystal Reports 8.5, RealVNC, Teamviewer
 
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
+## Trainings / Seminars
+* __Course:__ Course 2543B: Core Web Application Technologies with Microsoft Visual Studio 2005 
+* __Location:__ ​Robinson’s Tower, Ayala Ave. Makati City 
+* __Date:__​ Sept. 16­-19, 2009 
+* __Trainer:__ ​Mr. Rex A. Bayona MCPID: 2681 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`Apr 2014 - Mar 2016`
+- __Company​:__ Pacific Mez Web Marketing Corporation 
+- __Address:__ ​Lepanto Bldg. Paseo De Roxas, Makati City 
+- __Position​:__ Web Developer
 
-- Warden
-- Minted coins
+`Dec 2011 - Feb 2014`
+- __Company​:__ Automotive Management Services 
+- __Address:__ ​Northgate Cyberpark Alabang Muntinlupa, Philippines ­/ Jumeira Lake Towers, Dubai, UAE 
+- __Position​:__ Systems Programmer/Web Developer 
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`Dec 2011 - Feb 2014`
+- __Company:__ ​Corporate Fusion Incorporated Company 
+- __Address:__ ​Ususan, Taguig City 
+- __Position:​__ Senior Programmer/QA/Support 
 
 <!-- ### Footer
 
