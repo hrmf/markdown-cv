@@ -48,6 +48,10 @@ MySQL, SQL Server, MS Access, SQLite, SQL Server
 
 JS, jQuery, CSS, LESS, ASP.NET MVC
 
+### Mobile
+
+Xamarin
+
 ### Software Development Methodologies
 
 TDD, Scrum
