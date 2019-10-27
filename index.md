@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Adrian Morada's CV
+title: Adrian Morada
 ---
 # Adrian Juson Morada
-.Net Software Developer, Front-end Developer
+.Net Software Developer, Xamarin Developer
 
 <div id="webaddress">
 <a href="mailto:adrianmorada@gmail.com">adrianmorada@gmail.com</a>
@@ -19,13 +19,17 @@ Manager, Research and Development Team at Corporate Fusion Inc.
 * Assign Tasks to R&D Team 
 * Mentor R&D Team
 * Development/Maintenance of new features for company flagship product
+* Development of Boulangerie 22 App 
+	- [Play Store](https://play.google.com/store/apps/details?id=com.agc.b22customerapp&hl=en)
+	- [iOS App Store](https://apps.apple.com/ph/app/boulangerie22/id1479656398)
 * Maintenance of Internal Employee Portal 
 * Maintainance of company websites 
 	- [https://etudehouse.ph](https://etudehouse.ph) 
 	- [https://tonymoly.ph](https://tonymoly.ph) 
 	- [https://boulangerie22.ph](https://boulangerie22.ph) 
 	- [https://yoree.ph](https://yoree.ph)
-* Currently utilizing ASP.NET / ASP.NET MVC and ExtJS in projects
+	- [https://sbsinkigayosandwich.com](https://sbsinkigayosandwich.com)
+* Currently utilizing ASP.NET / ASP.NET MVC / MySQL
 
 ## Education
 
@@ -48,11 +52,11 @@ C#, VB6, PHP
 
 ### Database
 
-MySQL, SQL Server, MS Access, SQLite, SQL Server
+MySQL, SQL Server, MS Access, SQLite
 
 ### Web
 
-JS, jQuery, CSS, LESS, ASP.NET MVC
+JS, jQuery, CSS, LESS, ASP.NET MVC, ASP.NET Web API
 
 ### Mobile
 
@@ -64,7 +68,7 @@ TDD, Scrum, Continuous Integration
 
 ### Other Software
 
-Git, CVS, SVN, Crystal Reports 8.5, RealVNC, Teamviewer, Vagrant, VirtualBox, VMware
+Git, CVS, SVN, Crystal Reports 8.5, RealVNC, Teamviewer, Vagrant, VirtualBox, VMware, Ubuntu Server
 
 
 ## Occupation
